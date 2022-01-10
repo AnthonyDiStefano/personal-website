@@ -2,5 +2,6 @@
     "css.validate": false,
     "editor.quickSuggestions": {
         "strings": true
-      }
+      },
+      "python.pythonPath": "C:\\Python39\\python.exe"
 }
