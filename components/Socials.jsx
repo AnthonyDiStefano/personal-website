@@ -2,6 +2,10 @@ const links = [
     {
         text: "Github",
         href: "https://github.com/AnthonyDiStefano"
+    },
+    {
+        text: "LinkedIn",
+        href: "www.linkedin.com/in/anthony-di-stefano-342ard"
     }
 ]
 export default function Socials(info) {
